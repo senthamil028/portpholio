@@ -1,0 +1,182 @@
+.top{
+    display: flex;
+    color: rgb(254, 252, 252);
+    height: 75px;
+    width: auto;
+    position: fixed;
+    background-color: black;
+}
+#options{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 880px;
+
+
+}
+a{
+    color: rgb(254, 3, 3);
+    text-decoration: none;
+
+   
+}
+#home{
+    height: 750px;
+    width: 1600px;
+    margin-top: 50px;
+    border: solid black;
+    text-align: center;
+    background-color: rgb(137, 130, 132);
+}
+#quotes{
+    margin-top: 350px;
+}
+#bio{
+    height: 700px;
+    width: 1600px;
+    border: solid black;
+    
+    text-align: justify;
+    
+}
+#p2{
+    padding: 30px;
+    margin-left: 100px;
+    margin-top: 170px;
+    font-size: x-large;
+}
+img{
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+#bio_main{
+    display: flex;
+}
+#btn{
+    height: 50px;
+    width: 190px;
+    margin-left: 850px;
+    margin-top: -120px;
+}
+h2{
+    margin-left: 40px;
+    
+}
+#port{
+    height: 700px;
+    width: 1600px;
+    border: solid black;
+    background-color: rgb(124, 123, 123);
+    
+    text-align: justify;
+}
+#sub_port{
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin-top: 140px;
+}
+#s1{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    
+    
+}
+#s2{
+    border: 2px solid black;
+    height: 250px;
+    width: 200px;
+    background-color: pink;
+}
+h3{
+    text-align: center;
+}
+#l1{
+    text-align: center;
+    font-size: xx-large;
+}
+h5{
+    
+    font-size: large;
+    margin-left: 709px;
+}
+hr{
+    width: 700px;
+}
+#m4{
+    font-size: large;
+    text-justify: auto;
+    margin: 10px;
+}
+#kil{
+    
+    justify-content: space-between;
+    height: 700px;
+    width: 1600px;
+    border: solid black;
+
+    
+    text-align: justify;
+}
+#wo{
+    text-align: center;
+    margin-top: 60px;
+}
+#boom{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+#title{
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+#Contact{
+    height: 3o0px;
+    width: 1600px;
+    
+    border: solid black;
+    text-align: center;
+    justify-content: space-between;
+    background-color: rgb(243, 173, 173);
+}
+#x1{
+    height: 20px;
+    width: 20px;
+    
+}
+#x1{
+    height: 20px;
+    width: 40px;
+}
+#x3{
+    text-align: center;
+    font-size: xx-large;
+}
+#pro{
+    text-align: justify;
+}
+#down{
+    border: 2px solid black;
+    margin-left: 850px;
+    height: 60px;
+    width: 100px;
+    color: black;
+    background-color: blue;
+}
+a:hover{
+    color: blue;
+    height: 90px;
+    
+
+}
+#down:hover{
+    background-color: violet;
+    height: 70px;
+}
+
